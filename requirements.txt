@@ -3,5 +3,4 @@ pandas
 qrcode[pil]
 pillow
 pytz
-pyscard
 openpyxl
