@@ -1,7 +1,7 @@
 streamlit
 pandas
-openpyxl
-streamlit-autorefresh
+qrcode[pil]
+pillow
 pytz
-qrcode
-Pillow
+pyscard
+openpyxl
